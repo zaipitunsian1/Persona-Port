@@ -77,20 +77,20 @@
   </div>
   <div class="contact-links">
     <a
-      href="https://facebook.com/freecodecamp"
+      href="https://www.facebook.com/zaipitunsian"
       target="_blank"
       class="btn contact-details"
       ><i class="fab fa-facebook-square"></i> Facebook</a
     >
     <a
       id="profile-link"
-      href="https://github.com/freecodecamp"
+      href="https://github.com/zaipitunsian1"
       target="_blank"
       class="btn contact-details"
       ><i class="fab fa-github"></i> GitHub</a
     >
     <a
-      href="https://twitter.com/freecodecamp"
+      href="https://twitter.com/zaipitunsian"
       target="_blank"
       class="btn contact-details"
       ><i class="fab fa-twitter"></i> Twitter</a
@@ -110,14 +110,10 @@
 
 <footer>
   <p>
-    **This is just a fake portfolio. All the projects and contact details given
-    are not real.
+    
   </p>
   <p>
-    &copy; Created for
-    <a href="https://www.freecodecamp.com/" target="_blank"
-      >freeCodeCamp <i class="fab fa-free-code-camp"></i
-    ></a>
+   
   </p>
 </footer>
 
